@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1001,
+    "title": "Login page not working",
+    "description": "Users are unable to login with valid credentials. The login form reloads without error but access is still denied.",
+    "customer": "John Doe",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "09/25/2025"
+  },
+  {
+    "id": 1002,
+    "title": "UI bug on dashboard",
+    "description": "Charts on the dashboard fail to render correctly on mobile screens. Elements overlap and distort user view.",
+    "customer": "Jane Smith",
+    "priority": "Medium Priority",
+    "status": "Open",
+    "createdAt": "09/24/2025"
+  },
+  {
+    "id": 1003,
+    "title": "Email notifications delayed",
+    "description": "Customers report that system-generated emails are delayed by several minutes, causing missed alerts and confusion.",
+    "customer": "Acme Corp",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "09/23/2025"
+  },
+  {
+    "id": 1004,
+    "title": "Payment gateway error",
+    "description": "Transactions through the payment gateway fail intermittently. Some users cannot complete purchases or receive receipts.",
+    "customer": "John Doe",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "09/22/2025"
+  },
+  {
+    "id": 1005,
+    "title": "Profile picture upload fails",
+    "description": "Uploading profile images larger than 5MB always fails. Error messages do not guide users on file size or format limits.",
+    "customer": "XYZ Ltd",
+    "priority": "Low Priority",
+    "status": "Open",
+    "createdAt": "09/21/2025"
+  },
+  {
+    "id": 1006,
+    "title": "Slow page loading",
+    "description": "The dashboard requires more than 10 seconds to load on most devices. Users complain performance is slowing workflows.",
+    "customer": "Jane Smith",
+    "priority": "Medium Priority",
+    "status": "Open",
+    "createdAt": "09/20/2025"
+  },
+  {
+    "id": 1007,
+    "title": "Forgot password link broken",
+    "description": "Password reset emails are sent correctly, but the included reset link opens to a 404 page, preventing password changes.",
+    "customer": "Acme Corp",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "09/19/2025"
+  },
+  {
+    "id": 1008,
+    "title": "Incorrect invoice total",
+    "description": "When discounts are applied, invoices show incorrect totals. Customers see mismatched billing values across statements.",
+    "customer": "XYZ Ltd",
+    "priority": "Medium Priority",
+    "status": "Open",
+    "createdAt": "09/18/2025"
+  },
+  {
+    "id": 1009,
+    "title": "Notification settings reset",
+    "description": "User notification preferences are not saving correctly. After logging out, all settings reset back to system defaults.",
+    "customer": "John Doe",
+    "priority": "Low Priority",
+    "status": "Open",
+    "createdAt": "09/17/2025"
+  },
+  {
+    "id": 1010,
+    "title": "Search function not returning results",
+    "description": "The search bar does not return results for exact keyword matches. Users must enter partial terms for limited results.",
+    "customer": "Jane Smith",
+    "priority": "High Priority",
+    "status": "Open",
+    "createdAt": "09/16/2025"
+  },
+  {
+    "id": 1011,
+    "title": "Export to CSV not working",
+    "description": "Report export to CSV fails silently. Clicking the export button does nothing, leaving users without a downloaded file.",
+    "customer": "Acme Corp",
+    "priority": "Medium Priority",
+    "status": "Open",
+    "createdAt": "09/15/2025"
+  },
+  {
+    "id": 1012,
+    "title": "Broken links on FAQ page",
+    "description": "Several links on the FAQ page redirect users to unrelated pages. Customers cannot access helpful content or guidance.",
+    "customer": "XYZ Ltd",
+    "priority": "Low Priority",
+    "status": "Open",
+    "createdAt": "09/14/2025"
+  }
+]
